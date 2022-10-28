@@ -8,7 +8,6 @@ public class Code01 {
 		
 		System.out.println("좀 돼라!!!");
 		
-		
 	}
 
 }

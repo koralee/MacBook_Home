@@ -6,6 +6,7 @@ public class Code01 {
 		System.out.println("ㅎㅎ");
 		
 		
+		
 	}
 
 }

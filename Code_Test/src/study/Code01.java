@@ -7,7 +7,7 @@ public class Code01 {
 		System.out.println("ㅠㅠ");
 		
 		System.out.println("좀 돼라!!!");
-		
+		int a = 0;
 	}
 
 }

@@ -27,7 +27,6 @@ public class Code01 {
 		}
 		else
 			System.out.println("범위를 잘못 입력하였습니다.");
-		
 	}
 
 }

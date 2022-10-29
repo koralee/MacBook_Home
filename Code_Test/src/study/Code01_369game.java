@@ -2,7 +2,7 @@ package study;
 
 import java.util.*;
 
-public class Code01 {
+public class Code01_369game {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
